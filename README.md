@@ -1,3 +1,3 @@
 # jack-o-latern
 
-Borrowed from (https://github.com/schnoggo/jack-o-candle)[jack-o-latern] and adapted for Neopixel RGBW 16 Pixel ring.
+Borrowed from [jack-o-latern](https://github.com/schnoggo/jack-o-candle) and adapted for Neopixel RGBW 16 Pixel ring.
